@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\WNS\bin\Debug\netcoreapp2.0\WNS.deps.json
+C:\Users\Kyle\Documents\C#-.NET\WNS\bin\Debug\netcoreapp2.0\WNS.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\WNS\bin\Debug\netcoreapp2.0\WNS.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\WNS\bin\Debug\netcoreapp2.0\WNS.dll
+C:\Users\Kyle\Documents\C#-.NET\WNS\bin\Debug\netcoreapp2.0\WNS.pdb
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.dll
+C:\Users\Kyle\Documents\C#-.NET\WNS\obj\Debug\netcoreapp2.0\WNS.pdb
